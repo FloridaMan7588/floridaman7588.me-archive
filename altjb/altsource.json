@@ -1,0 +1,145 @@
+{
+    "name": "Jailbreak Tools (Unoffical)",
+    "identifier": "com.floridaman7588.jailbreaks",
+    "apps": [
+        {
+            "name": "unc0ver",
+            "bundleIdentifier": "science.xnu.undecimus",
+            "developerName": "pwn20wnd",
+            "subtitle": "The most advanced jailbreaking tool. iOS 11.0 - 14.3",
+            "version": "6.1.2",
+            "versionDate": "2021-07-04T12:00:00-00:00",
+            "versionDescription": "Changelogs\n\n •Fix a cause of random reboots on iOS14\n •Fix a cause of jetsam events on iOS14\n •Fix a cause of processes being killed(9) on iOS14, particularly dpkg postinst etc\n •Increase compatibility with signing services\n •Introduce a new safety feature to preserve stock files from modification by packages ",
+            "downloadURL": "https://unc0ver.dev/downloads/6.1.2/56dd2827d0f4585f6cf21a8e08a1a4eba6f2cdb2/unc0ver_Release_6.1.2.ipa",
+            "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nThis source is unoffical however the download link to the ipa is the offical github download.\n\nUnc0ver was developed by pwn20wned",
+            "iconURL": "http://10.3.1.110/altjb/u0/u0_icon.jpg",
+            "tintColor": "#8c8c8c",
+            "size": 58720256,
+            "screenshotURLs": [
+                "http://10.3.1.110/altjb/u0/main_dark.png",
+                "http://10.3.1.110/altjb/u0/set_dark.png",
+                "http://10.3.1.110/altjb/u0/main_light.png",
+                "http://10.3.1.110/altjb/u0/set_light.png"
+            ]
+        },
+        {
+            "name": "PlankFilza",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "developerName": "Brandon Plank",
+            "subtitle": "Pretty much Filza. Escapes the sandbox and gets root.",
+            "version": "3.8",
+            "versionDate": "2021-06-24T12:00:00-00:00",
+            "versionDescription": "No changelogs avaliable",
+            "downloadURL": "http://10.3.1.110/altjb/plankfilza/pfz.ipa",
+            "localizedDescription": "!!THIS PROJECT IS DEPRECATED, jailbreak your device and use Filza File Manager!!\n\n PlankFilza is a modified version of Filza File Manager that runs without a jailbreak. PlankFilza uses Cicuta_Virosa by ModernPwner to gain root file acces and escape the sandbox.\n\n This source is unofficial, and uses an ipa file generated from the GitHub source. I recommend jailbreaking your device instead of using this tool.\n\n PlankFilza by Brandon Plank, Exploit by ModernPwner",
+            "iconURL": "http://10.3.1.110/altjb/plankfilza/filza_icon.png",
+            "tintColor": "#00addc",
+            "size": 9437184,
+            "screenshotURLs": [
+                "http://10.3.1.110/altjb/plankfilza/file_list.png",
+                "http://10.3.1.110/altjb/plankfilza/opt_menu.png",
+                "http://10.3.1.110/altjb/plankfilza/switcher.png"
+            ]
+        },
+        {
+            "name": "Chimera",
+            "bundleIdentifier": "com.electrateam.chimera",
+            "developerName": "The Electra Team",
+            "subtitle": "Your device, your way.",
+            "version": "1.6.2",
+            "versionDate": "2021-02-06T12:00:00-00:00",
+            "versionDescription": "Changeslogs\n\n•Fully reliable userspace reboot\n•Sileo icon now shows up reliably on fresh bootstraps\n•uicache runs on rootfs restore and removes jailbreak app icons\n•New Chimera splash screen on userspace reboot",
+            "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.2-12.2-12.5.ipa",
+            "localizedDescription": "Chimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives. Chimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.\n\nChimera from The Electra Team",
+            "iconURL": "http://10.3.1.110/altjb/chimera/chimera_icon.jpg",
+            "tintColor": "#42b0a3",
+            "size": 31457280,
+            "screenshotURLs": [
+                "http://10.3.1.110/altjb/chimera/pre_jb.png",
+                "http://10.3.1.110/altjb/chimera/post_jb.jpg",
+                "http://10.3.1.110/altjb/chimera/settings.png"
+            ]
+        },
+        {
+            "name": "Odyssey",
+            "bundleIdentifier": "org.coolstar.odyssey",
+            "developerName": "Coolstar",
+            "subtitle": "A new jailbreak for a new era.",
+            "version": "1.3.3",
+            "versionDate": "2021-04-16T12:00:00-00:00",
+            "versionDescription": "Changeslogs\n\n•Fixes Filza not launching\n•Fixes binaries signed with old ldid not spawning",
+            "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.3.3/Odyssey-1.3.3.ipa",
+            "localizedDescription": "!Note: Odyssey has an official AltSource, and should be installed from there instead! Odyssey is a snappy, responsive experience that you can't find anywhere else, with support for all iOS versions from iOS 13.0-13.7, including A12 & A13 devices.\nOdyssey is completely open source, written almost entirely in Swift and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project.\nOdyssey comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Odyssey also comes equipped with full libhooker support, so speed and reliabilty are ensured.\n\n Odyssey from Coolstar and the Odyssey Team",
+            "iconURL": "http://10.3.1.110/altjb/odyssey/odyssey_icon.jpg",
+            "tintColor": "#ed8794",
+            "size": 22649241,
+            "screenshotURLs": [
+                "http://10.3.1.110/altjb/odyssey/pre_jb.png",
+                "http://10.3.1.110/altjb/odyssey/post_jb.png",
+                "http://10.3.1.110/altjb/odyssey/usr_rbt.jpg"
+            ]
+        },
+        {
+            "name": "Sileo Demo",
+            "bundleIdentifier": "org.coolstar.SileoDemo",
+            "developerName": "Coolstar",
+            "subtitle": "Unpack the full potential of your iDevice.",
+            "version": "1.2.6b2",
+            "versionDate": "2020-11-09T12:00:00-00:00",
+            "versionDescription": "No changelogs avaliable",
+            "downloadURL": "http://10.3.1.110/altjb/sileo/sileodemo.ipa",
+            "localizedDescription": "!!THIS PROJECT IS DEPRECATED, jailbreak your device and install Sileo via repo.getsileo.app!!\n\n Sileo Demo is a non-jailbroken version of Sileo that allows users to test it's functionality before switching. The Sileo Demo can not be used as a real package manager, as it is a demo.\nThis project was made by Coolstar but has since been deprectaed ",
+            "iconURL": "http://10.3.1.110/altjb/sileo/sileo_icon.jpg",
+            "tintColor": "#37abad",
+            "size": 6920601,
+            "screenshotURLs": [
+                "http://10.3.1.110/altjb/sileo/home.png",
+                "http://10.3.1.110/altjb/sileo/sources.png",
+                "http://10.3.1.110/altjb/sileo/settings.png"
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "unc0ver",
+            "identifier": "unc0ver-news",
+            "caption": "The most advanced jailbreaking tool. iOS 11.0 - 14.3",
+            "tintColor": "#8c8c8c",
+            "imageURL": "http://10.3.1.110/altjb/u0/background.jpg",
+            "appID": "science.xnu.undecimus",
+            "date": "2021-07-15",
+            "notify": true
+        },
+        {
+            "title": "PlankFilza",
+            "identifier": "pfz-news",
+            "caption": "Pretty much Filza. Escapes the sandbox and gets root.",
+            "tintColor": "#00addc",
+            "imageURL": "http://10.3.1.110/altjb/plankfilza/background.jpg",
+            "appID": "com.tigisoftware.Filza",
+            "date": "2021-06-24",
+            "notify": true
+        },
+        {
+            "title": "Sileo Demo",
+            "identifier": "sileo-news",
+            "caption": "Unpack the full potential of your iDevice.",
+            "tintColor": "#37abad",
+            "imageURL": "http://10.3.1.110/altjb/sileo/background.png",
+            "appID": "org.coolstar.SileoDemo",
+            "date": "2020-09-11",
+            "notify": true
+        },
+        {
+            "title": "Chimera",
+            "identifier": "chimera-news",
+            "caption": "Your device, your way.",
+            "tintColor": "#42b0a3",
+            "imageURL": "http://10.3.1.110/altjb/chimera/background.png",
+            "appID": "com.electrateam.chimera",
+            "date": "2021-02-06",
+            "notify": true
+        }
+    ],
+    "userInfo": {}
+}
