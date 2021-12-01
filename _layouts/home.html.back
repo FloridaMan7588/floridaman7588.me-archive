@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <div class="content">
+
+    <article class="article  article--page  typeset">
+
+      <h1>{{ page.title }}</h1>
+
+      {{ content }}
+
+    </article>
+
+    <section class=section>
+      <h2>Recent Posts</h2>
+      <ul class="list  list--posts">
+        {% for post in site.posts limit:3 %}
+        <li class="item  item--post">
+          <a href="{{ post.url }}">
+            <h2>{{ post.title }}</h2>
+            <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+            <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+            {% include post-meta.html %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+  </div>
+
+  {% if page.aside == true %}{% include site-aside.html align="left" %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}

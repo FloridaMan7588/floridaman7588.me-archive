@@ -1,0 +1,14 @@
+Package: com.floridaman.empty
+Name: Package Does Not Exist
+Version: 0
+Architecture: iphoneos-arm
+Description: A package that does not exist but is used as filler
+Maintainer: FloridaMan (floridaman7588@gmail.com)
+Author: FloridaMan
+Section: 
+Depends:
+Filename: debs/example.deb
+Size: 10000
+MD5sum:
+SHA1:
+SHA256:

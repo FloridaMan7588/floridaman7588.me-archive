@@ -1,0 +1,14 @@
+Package: com.floridaman.mineos
+Name: MineOS
+Version: 0.1
+Architecture: iphoneos-arm
+Description: My first theme, based around Minecraft.
+Maintainer: FloridaMan (floridaman7588@gmail.com)
+Author: FloridaMan
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/com.floridaman.mineos.deb
+Size: 10000
+MD5sum: 
+SHA1:
+SHA256:

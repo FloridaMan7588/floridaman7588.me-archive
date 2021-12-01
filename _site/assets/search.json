@@ -1,0 +1,106 @@
+
+
+[
+  
+  
+    
+    
+  
+    
+    
+      {
+        "title": "New Website",
+        "excerpt": "Finally, a new website that isn’t totally stolen from someone else. Though I am kind of cheating as I’m using Jekyll to make this. Anyways, let’s talk about this \nhere new website. As I’ve stated, I am using Jekyll to make this site so It’s a bit easier on me. This website is going to be a general blogging/tutorial/whatever \nwebsite for me to post about my projects and other things I do in my spare time.\n",
+        "content": "Finally, a new website that isn’t totally stolen from someone else. Though I am kind of cheating as I’m using Jekyll to make this. Anyways, let’s talk about this \nhere new website. As I’ve stated, I am using Jekyll to make this site so It’s a bit easier on me. This website is going to be a general blogging/tutorial/whatever \nwebsite for me to post about my projects and other things I do in my spare time.\n\nI am doing other things in my time currently (ex. spending time with the other humans), but I will be working on more projects sooner or later. I haven’t\npublished a new YouTube video lately so I intend on doing some more of those eventually. I plan on learning some more programming languages over the summer period. I will be working on C and Swift in particualr, but I may change my mind.\n\nSome projects I’ve been working on lately are\n\n  This website\n  Learning Ansible\n  Working on my Docker skills\n  Learning the aforementioned launguages (C and Swift)\n\n\nSo you can expect more to come from me in relation to these things. I am attemping to whip up an Ansible playbook to install Docker on any computer so look forward to that.\n\nAnyways, I’ve got some more work to do here so I am going to end this blog post update thing here. See y’all later.\n",
+        "url": "/news/website/2021/06/28/new-website.html"
+      },
+    
+      {
+        "title": "Website Updates",
+        "excerpt": "Hi! You may have noticied nothing, the website still isn’t avaliable on the open web yet. That means there is a very slim chance that you are reading this unless I know you personally. If you are reading this, cool. I’ve been working on my website here and I’ve added a couple pages, as well as some other special little things around the place. You may notice the ‘Cydia’ and ‘AltStore Source’ tabs at the top appearing. Those are pretty self-explanatory to most people that my audience consists of. If you don’t understand what they are, clicking on them probably won’t help either unfortunatley. The are what they say they are. But anyways anyways, these new pages aren’t just pages. They allow direct access to what each one states that it might be. Have a look, and a few clicks around. You might find yourself adding my AltSource through a link or two (Hint, Hint). Yeah that’s really about it, I’m hoping to purchase a domain name soon so that this website will be nice and proper. Once that happens this site will probably be near completion anyways. Check back soon for more details and updates, hope to see you.\n",
+        "content": "Hi! You may have noticied nothing, the website still isn’t avaliable on the open web yet. That means there is a very slim chance that you are reading this unless I know you personally. If you are reading this, cool. I’ve been working on my website here and I’ve added a couple pages, as well as some other special little things around the place. You may notice the ‘Cydia’ and ‘AltStore Source’ tabs at the top appearing. Those are pretty self-explanatory to most people that my audience consists of. If you don’t understand what they are, clicking on them probably won’t help either unfortunatley. The are what they say they are. But anyways anyways, these new pages aren’t just pages. They allow direct access to what each one states that it might be. Have a look, and a few clicks around. You might find yourself adding my AltSource through a link or two (Hint, Hint). Yeah that’s really about it, I’m hoping to purchase a domain name soon so that this website will be nice and proper. Once that happens this site will probably be near completion anyways. Check back soon for more details and updates, hope to see you.\n",
+        "url": "/news/website/2021/07/22/website-updates.html"
+      },
+    
+      {
+        "title": "Progress",
+        "excerpt": "Hey, long time no see, or write I guess. Well, I’m working on the website again. This is just a progress post, and as you can see a lot of progress has been made. I have started school so things may not be as frequent as I’d like them to be but it’s really whatever. AFAIK, my schedule should allow for at least an hour of work each day, but that may be limited by other factors(eg. family whatevers or having a social life). I do have some other projects that I’m working on, so this website isn’t the number 1 priority (btw you can check out those other projects here).\n",
+        "content": "Hey, long time no see, or write I guess. Well, I’m working on the website again. This is just a progress post, and as you can see a lot of progress has been made. I have started school so things may not be as frequent as I’d like them to be but it’s really whatever. AFAIK, my schedule should allow for at least an hour of work each day, but that may be limited by other factors(eg. family whatevers or having a social life). I do have some other projects that I’m working on, so this website isn’t the number 1 priority (btw you can check out those other projects here).\n",
+        "url": "/news/website/2021/09/07/progress.html"
+      },
+    
+      {
+        "title": "Hello Again",
+        "excerpt": "Hello, it’s been a while. I’ve been busy with school and everything but I’m sure chugging along here. I was busy working with some docker compose scripts and such a while back working with my smart home but otherwise I haven’t been doing much. I’ve tried to get some work done on the docker things and my (hopefully) coming soon reddit bot, but I just haven’t had much time. You can try to expect more from me, but you never know. The website is pretty much finished, I’ve only got a few housekeeping things to work on (commenting, RSS, EMail feed, etc.) so there probably won’t be much else to see for a while. I will try and get at least the bungeecord container updated for the latest version of Minecraft &amp; Bungeecord, but that’s probably about it for a while. I am getting pretty tired, so I think I’m going to sign off for now. Have a good day/night/whatever and goodbye!\n",
+        "content": "Hello, it’s been a while. I’ve been busy with school and everything but I’m sure chugging along here. I was busy working with some docker compose scripts and such a while back working with my smart home but otherwise I haven’t been doing much. I’ve tried to get some work done on the docker things and my (hopefully) coming soon reddit bot, but I just haven’t had much time. You can try to expect more from me, but you never know. The website is pretty much finished, I’ve only got a few housekeeping things to work on (commenting, RSS, EMail feed, etc.) so there probably won’t be much else to see for a while. I will try and get at least the bungeecord container updated for the latest version of Minecraft &amp; Bungeecord, but that’s probably about it for a while. I am getting pretty tired, so I think I’m going to sign off for now. Have a good day/night/whatever and goodbye!\n",
+        "url": "/news/personal/2021/10/02/hello-again.html"
+      },
+    
+      {
+        "title": "Home Assistant Supervised on Docker",
+        "excerpt": "Hey, it’s me again! I’m actually doing something too. Right now the thing that I’m doing is a write-up for a YouTube video that I made like half a year ago.\nYeah. Let’s get started.\n",
+        "content": "Hey, it’s me again! I’m actually doing something too. Right now the thing that I’m doing is a write-up for a YouTube video that I made like half a year ago.\nYeah. Let’s get started.\n\nBefore we get started\n\nBefore we get started I need to clarify that my video uses a now outdated script for deploying Home Assistant Supervised, so in this write-up we will be using\nthe updated version. I also need to say that this tutorial was originally made on a VMware amd64 virtual machine, but it should work on a bare metal host. Now the lsdt thing I have to say is that this install script is for Debian 10 buster but I believe it should work on other flavours of linux as well. Please correct me if I’m wrong. Alright let’s get started now.\n\nStep 1, installing dependencies\n\nThis tutorial is assuming that you are runnng Debian 10 Buster (and derivatives) or Debian 11 Bullseye (and derivatives). The first thing we need to do is update\nour apt package lists so that we can download everything properly. We can do this by running\n\nsudo apt update\n\nand then running\n\nsudo apt upgrade -y\n\nto update any packages that need to be. Then we are going to install our dependencies with\n\nsudo apt install -y software-properties-common apparmor-utils apt-transport-https ca-certificates curl dbus jq network-manager\n\nThis adds the necessary software to our system for Docker to properley run our containers. We also need to disable the ModemManager service for everything to work properly. We can do this by running\n\nsudo systemctl disable ModemManager\n\nand stop it by running\n\nsudo systemctl stop ModemManager\n\nStep 1.1, Installing Docker\n\nTo install Docker, we will downlod and run the convenience script from the Docker website by running\n\ncurl -fsSL get.docker.com | sudo sh\n\nthis should completley download and install docker without much of any use interaction.\n\nStep 2, Install Home Assistant\n\nTo install Home Assistant we are going to simply clone and run the Home Assistant Supervised install script from GitHub by running\n\ncurl -Lo installer.sh https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh\n\nand running the script simple by using\n\nsudo bash installer.sh\n\nand that should do it. Just sit back and let the installer do it’s thing.\n\nStep 3, Onboarding\n\nAt this point Home Assitant should be installed and the install script should have spit out an ip for you to connect to. For instance my video shows 192.168.81.128 at port 8123. Since I was using a GUI I was just able to connect to localhost instead, but you are probably installing in a headless environment so you NEED to connect to your devices hostname/local ip address. At this point you should see something like this: \n\nOnce your here, your golden. You can complete the setup by following the instructions and you’ll have it completley set up.\n\nWrapping Up\n\nWell, congratulations! You’ve succesfully deployed an entire network of Docker container for running your smart home. Great job! This was a rather simple process but when I was first starting out these kind of articles were huge helps, so I hope this one will help you. Have a good rest of your day/night/whatever, and goodbye!\n",
+        "url": "/docker/home%20assistant/tutorial/2021/10/03/home-assistant-supervised.html"
+      },
+    
+      {
+        "title": "Backlogged",
+        "excerpt": "Hello yet again! I’ve once again emerged to bring you updates as to what I am doing. You may have noticed very little of anything from me, but that is to be expected with school and a recently acquired position at a local lawn company taking most of my time from me. I have recently been on a school break and was able to get a bit of work in on some projects, such as yet again redefining my home-labs infrastructure and some other fun things soon to come. One such thing is a PiHole HTTP Webhook thing. I don’t know what to call it and I’m also not quite sure Webhook is the correct word, but it’s what I’ll be going with for the foreseeable future. The source for this software is available here, with documentation available as well.\n",
+        "content": "Hello yet again! I’ve once again emerged to bring you updates as to what I am doing. You may have noticed very little of anything from me, but that is to be expected with school and a recently acquired position at a local lawn company taking most of my time from me. I have recently been on a school break and was able to get a bit of work in on some projects, such as yet again redefining my home-labs infrastructure and some other fun things soon to come. One such thing is a PiHole HTTP Webhook thing. I don’t know what to call it and I’m also not quite sure Webhook is the correct word, but it’s what I’ll be going with for the foreseeable future. The source for this software is available here, with documentation available as well.\n\nI am also working on a couple other things, the main one being a project I started a while ago and haven’t introduced yet. This project is….. A Self-Hosted Certificate Authority! I know, I know, you probably already have some solution for HTTPS at home, but this is a simplified version of whatever solution you may run. Currently it is extremely-beta, with barely any functionality besides a couple of core things. I wasn’t planning on introducing it until more was done but who cares really. I will elaborate in further posts and updates but the basic concept is that it issues SSL certificates with a self-signed root certificate. The only difference between my tool and using the CLI or something is that it is managed via a WebUI and not a text interface such as the CLI. It’s just meant to simplify the experience so that beginners and experienced users alike can use SSL on their local services.\n\nThere is more for me to talk about but that will probably end up in a post further down the line. It’s getting a bit late for me so I will probably be heading to bed here shortly and won’t continue writing. That’s all from me for now folks, remember to look out for further posts and updates, and I’ll see ya round. Bye!\n",
+        "url": "/personal/2021/11/28/backlogged.html"
+      },
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "\n",
+    "content": "\n\nAbout Me\n\nHi! I’m FloridaMan, I’m a person who does things in a place. I wrote a code or two, and I can make computers do things. I mainly write JavaScript but I have been working with bash scripts and docker lately. I am also working on my Anisble skills and intend on learning C and Swift. You can find some of my projects on my GitHub.\n\n\n\nAbout the site\n\nSo, you want to know about the site too, huh? Well let’s talk about it. This site runs on Jekyll with the Alembic theme and some custom layouts. Commenting on each post is handled by Disqus, and RSS/EMail feeds are (soon to be) handled by SimpleForm. Whew, that’s a lot of links. That is about it though, so make sure to check out these things.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "AltStore Source",
+    "excerpt": "\n",
+    "content": "AltStore eh, yep we’re doing that now. AltStore is a really neat tool, allowing you to sideload apps on-device. Pretty cool, but what do I have to do with it. Well the alpha version of AltStore allows you to add sources from third parties for other apps, right? So I went to myself and said “That’s pretty cool, I’m gonna make one”, and so I did. It doesn’t host my apps, but tools for jailbreaking and other dev applications. Apps like Unc0ver, Odyssey, Taurine, and PlankFilza are all there. Like I said, not my apps. You can add the source in the following ways; \nThe easy way\n\n  Add the source here\n\n\nThe less-easy way\n\n  Open AltStore (Alpha version)\n  Select the Browse tab\n  Select the Sources button\n  Select the + button\n  Enter https://floridaman7588.me/altjb/altsource.json\n\n\nAnd now we’re done, you’ve added the source and can download jailbreaks and dev tools right from AltStore\n",
+    "url": "/altjb/"
+  },
+  
+  {
+    "title": "Beta APT Repository",
+    "excerpt": "\n",
+    "content": "Looks like you’ve found the beta repository, congratulations! You may have stumbled across this by accident, or just clikced the link on the main repo page. Well either way, your here now. So, what is this place anyway. Well it’s exactly how it sounds, an APT repository for Cydia. It has my iOS tweaks that may still be in beta, or the public ones at least. Now let’s get to adding this thing.\n\nNow this is fairly similar to the main repository in that it’s exactly the same, adding it anyways. So let’s first add it the easy way.\n\n  Add to Cydia\n  Add to Sileo\n  Add to Zebra\n  Add to Installer\n\n\nIf that doesn’t work for you, try manually adding it.\n\n  Open Cydia or your preferred package manager\n  Tap the Sources tab\n  Tap the Edit button\n  Tap the Add button\n  Type https://floridaman7588.me/cydia\n  Tap Add Source\n  And we’re done\n\n\nGreat! Now you have my public beta APT repository for iOS devices.\n\nIn the wrong place? The release version can be found here\n",
+    "url": "/beta/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "\n",
+    "content": "\n\n  \n    \n    \n    \n\n    News\n    \n    \n    \n      Hello Again\n    \n    \n    \n      Progress\n    \n    \n    \n      Website Updates\n    \n    \n    \n      New Website\n    \n    \n  \n\n  \n    \n    \n    \n\n    Website\n    \n    \n    \n      Progress\n    \n    \n    \n      Website Updates\n    \n    \n    \n      New Website\n    \n    \n  \n\n  \n    \n    \n    \n\n    Personal\n    \n    \n    \n      Backlogged\n    \n    \n    \n      Hello Again\n    \n    \n  \n\n  \n    \n    \n    \n\n    Docker\n    \n    \n    \n      Home Assistant Supervised on Docker\n    \n    \n  \n\n  \n    \n    \n    \n\n    Home Assistant\n    \n    \n    \n      Home Assistant Supervised on Docker\n    \n    \n  \n\n  \n    \n    \n    \n\n    Tutorial\n    \n    \n    \n      Home Assistant Supervised on Docker\n    \n    \n  \n\n\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Contact Me",
+    "excerpt": "\n",
+    "content": "If you wish to contact me you can via the following means:\n\n\n  Twitter: You can contact me through Twitter @FloridaMan7588\n  Email: I do not recommend contacting me through Email as I do not read them often, but if you wish you can find me at floridaman7588@gmail.com\n  Discord: I am on Discord pretty much 24/7 so if you wish to contact me, join the discord server\n  Reddit: I have a Reddit account but will most likely not reply to DMs, but if you must you can find me at u/Cade7588\n  YouTube: I respond to all of my comments but I’d only recommend YouTube for a topic-specific question, but here is the link\n\n",
+    "url": "/contact/"
+  },
+  
+  {
+    "title": "Cydia",
+    "excerpt": "\n",
+    "content": "Hey! I have an APT repository for jailbroken iOS devices, yay! Yeah that’s cool and all, but what’s on it and how do I add it. Well I don’t know Swift, or objective-c for that matter. That means there is nothing on my repository, wooo! Yeah, I know. I thought it would be fun to set one up, and when the day comes that I actually can develop iOS tweaks, it will come in handy. Now let’s get on with the ‘how do I add it’ part.\n\nAlright, let’s do this. We can do this two ways, the easy way and the hard way. First will try the easy way, you can just tap the buttons below to add my repository to your preferred package manager.\n\n  Add to Cydia\n  Add to Sileo\n  Add to Zebra\n  Add to Installer\n\n\nNow here’s the hard way\n\n  Open Cydia or your preferred package manager\n  Tap the Sources tab\n  Tap the Edit button\n  Tap the Add button\n  Type https://floridaman7588.me/cydia\n  Tap Add Source\n  And we’re done\n\n\nThat’s it, you’ve added my APT repository, as empty as it is\n\nPsst looking for something else? You can find the beta repository here\n",
+    "url": "/cydia/"
+  },
+  
+  {
+    "title": "Projects",
+    "excerpt": "\n",
+    "content": "Currently I’m working on a few projects:\n\n\n  docker-forge-server, self explainitory isn’t it. A Minecraft Forge server in a Docker container.\n  docker-bungeecord, the less than actively maintained brother of #1. It’s a Minecraft Bungeecord server in a Docker container.\n  I’m currently, actually working on a reddit bot similar to u/B0tRank, but for human image transcribers. These are the only public details avaliable currently, and the code will not be open-sourced for a few months. (This will not be released for the foreseeable future)\n  pihole-webhook, a simple webserver to process HTTP requests for blocking domains and regular expressions on a PiHole server.\n  This website! Yeah, that’s all.\n\n\nThat’s it, I’m not working on much else. I am still working on learning other languages which means more things soon. Otherwise, that’s it.\n",
+    "url": "/projects/"
+  }
+  
+]
+
