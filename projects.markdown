@@ -6,10 +6,24 @@ permalink: /projects/
 
 Currently I'm working on a few projects:
 
-1. [docker-forge-server](https://github.com/floridaman7588/docker-forge-server), self explainitory isn't it. A Minecraft Forge server in a Docker container.
-2. [docker-bungeecord](https://github.com/floridaman7588/docker-bungeecord), the less than actively maintained brother of #1. It's a Minecraft Bungeecord server in a Docker container.
-3. I'm currently, actually working on a reddit bot similar to u/B0tRank, but for human image transcribers. These are the only public details avaliable currently, and the code will not be open-sourced for a few months. (This will not be released for the foreseeable future)
-4. [pihole-webhook](https://github.com/floridaman7588/pihole-webhook), a simple webserver to process HTTP requests for blocking domains and regular expressions on a PiHole server.
-5. This website! Yeah, that's all.
+1. [pihole-webhook](https://github.com/floridaman7588/pihole-webhook), a simple webserver to process HTTP requests for blocking domains and regular expressions on a PiHole server.
+2. [waterfox-flatpak](https://github.com/floridaman7588/waterfox-flatpak), a build of the Waterfox browser in a Flatpak, because the Waterfox team doesn't provide an official one.
+3. This website! Yeah, that's all.
 
 That's it, I'm not working on much else. I am still working on learning other languages which means more things soon. Otherwise, that's it.
+
+# Archived/Deperacated
+
+Believe or not, I have a life outside of code, and these projects slipped through the cracks and out of my hands. I have no time to maintain them, so I just won't.
+
+1. [docker-forge-server](https://github.com/floridaman7588/docker-forge-server)
+2. [docker-bungeecord](https://github.com/floridaman7588/docker-bungeecord)
+<!-- 1. I'm currently working on a reddit bot similar to u/B0tRank, but for human image transcribers. These are the only public details avaliable currently, and the code will not be open-sourced for a few months. (This will not be released for the foreseeable future) -->
+
+# The Backburner™
+
+Similarly to the prior section, I don't have time for some things. Not only that, but I no longer daily drive a MacBook and iPhone, so my iPhone projects are out of the window. You can still access them below, but they are 'Backburnered' so I won't be updating them. 
+
+1. [Cydia Repo]({{url}}/cydia) Basically never did anyhting with this anyways lol
+2. [Beta Cydia Repo]({{url}}/beta) Same as above, never did anything with this
+3. [AltJB]({{url}}/altjb) Though I did publish this, most of these tools are now outdated. I will go through and update them eventually, but this is on The Backburner™

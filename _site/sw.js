@@ -1,8 +1,8 @@
-const version = '20211128223649';
+const version = '20220526231503';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/personal/2021/11/28/backlogged.html","/docker/home%20assistant/tutorial/2021/10/03/home-assistant-supervised.html","/news/personal/2021/10/02/hello-again.html","/news/website/2021/09/07/progress.html","/news/website/2021/07/22/website-updates.html","/news/website/2021/06/28/new-website.html","/about/","/altjb/","/beta/","/categories/","/contact/","/cydia/","/","/projects/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/personal/news/website/2022/05/26/guess-whos-back/","/personal/2021/11/28/backlogged/","/docker/home%20assistant/tutorial/2021/10/03/home-assistant-supervised/","/news/personal/2021/10/02/hello-again/","/news/website/2021/09/07/progress/","/news/website/2021/07/22/website-updates/","/news/website/2021/06/28/new-website/","/404","/about/","/altjb/","/beta/","/categories/","/contact/","/cydia/","/blog/","/","/privacy-policy/","/projects/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/blog/page2/","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

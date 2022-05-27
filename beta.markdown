@@ -2,6 +2,8 @@
 layout: page
 title: Beta APT Repository
 permalink: /beta/
+indexing: false
+sitemap: false
 ---
 
 Looks like you've found the beta repository, congratulations! You may have stumbled across this by accident, or just clikced the link on the main repo page. Well either way, your here now. So, what is this place anyway. Well it's exactly how it sounds, an APT repository for Cydia. It has my iOS tweaks that may still be in beta, or the public ones at least. Now let's get to adding this thing. 

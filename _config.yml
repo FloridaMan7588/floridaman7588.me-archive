@@ -19,26 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 # Build settings
-title: Floridaman7588
-author: FloridaMan
-email: floridaman7588@gmail.com
-description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://floriaman7588.me"
-twitter:
-  username: FloridaMan7588
-  card: summary
-social:
-  name: FloridaMan
-  links:
-    - https://floridaman7588.me
-    - https://twitter.com/floridaman7588
-    - https://github.com.floridaman7588
-github_username: FloridaMan7588
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-theme: alembic-jekyll-theme
 
 collections:
   category:
@@ -70,3 +50,61 @@ exclude:
    - vendor/gems/
    - vendor/ruby/
    - readme.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 4
+paginate_path: /blog/page:num
+title: Floridaman7588
+author: FloridaMan7588
+email: me@floridaman7588.me
+description:
+logo: "/assets/logos/logo.svg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://floriaman7588.me"
+twitter:
+  username: FloridaMan7588
+  card: summary
+social:
+  name: FloridaMan7588
+  links:
+    - https://floridaman7588.me
+    - https://twitter.com/floridaman7588
+    - https://github.com.floridaman7588
+github_username: FloridaMan7588
+theme: alembic-jekyll-theme
+
+encoding: UTF-8
+lang: en-US
+
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: America/Chicago # Timezone for blog posts and alike
+
+navigation_header:
+- title: Home
+  url: /
+- title: Blog
+  url: /blog/
+- title: About
+  url: /about/
+- title: Contact Me
+  url: /contact/
+
+navigation_footer:
+- title: Website Created by FloridaMan7588
+  url: https://fm7588.me
+- title: Jekyll theme by David Darnes
+  url: https://alembic.darn.es
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/FloridaMan7588
+  GitHub: https://github.com/floridaman7588
+  link: https://fm7588.me/links
+  RSS: /feed.xml
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
