@@ -1,8 +1,6 @@
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-Gemfile
-Gemfile.lock
 _includes/
 _drafts/
 _categories/
@@ -11,3 +9,4 @@ vendor/bundle/
 vendor/cache/
 vendor/gems/
 vendor/ruby/
+flatpak/
