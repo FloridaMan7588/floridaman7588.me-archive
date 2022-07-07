@@ -91,6 +91,8 @@ navigation_header:
   url: /blog/
 - title: About
   url: /about/
+- title: Projects
+  url: /projects/
 - title: Contact Me
   url: /contact/
 

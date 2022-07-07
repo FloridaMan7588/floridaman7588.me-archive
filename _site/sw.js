@@ -1,8 +1,8 @@
-const version = '20220527130520';
+const version = '20220707010219';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/personal/news/website/2022/05/26/guess-whos-back/","/personal/2021/11/28/backlogged/","/docker/home%20assistant/tutorial/2021/10/03/home-assistant-supervised/","/news/personal/2021/10/02/hello-again/","/news/website/2021/09/07/progress/","/news/website/2021/07/22/website-updates/","/news/website/2021/06/28/new-website/","/404","/about/","/altjb/","/beta/","/categories/","/contact/","/cydia/","/blog/","/","/privacy-policy/","/projects/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/blog/page2/","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/personal/news/website/2022/05/26/guess-whos-back/","/personal/2021/11/28/backlogged/","/docker/home%20assistant/tutorial/2021/10/03/home-assistant-supervised/","/news/personal/2021/10/02/hello-again/","/news/website/2021/09/07/progress/","/news/website/2021/07/22/website-updates/","/news/website/2021/06/28/new-website/","/404","/about/","/altjb/","/beta/","/categories/","/contact/","/cydia/","/blog/","/","/privacy-policy/","/projects/","/waterfox-flatpak/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/blog/page2/","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
