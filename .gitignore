@@ -10,3 +10,4 @@ vendor/cache/
 vendor/gems/
 vendor/ruby/
 flatpak/
+_site/
